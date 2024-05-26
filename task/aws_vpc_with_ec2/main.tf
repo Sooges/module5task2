@@ -1,5 +1,5 @@
 provider "aws" {
-  region = "us-north-2"  # Змініть на ваш регіон, якщо потрібно
+  region = "eu-north-1"
 }
 
 module "vpc" {
